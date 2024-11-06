@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="img/ca2.pdf" width="90%">
+  <img src="img/ca2.jpg" width="90%">
 
 
 
