@@ -4,6 +4,10 @@
   <img src=img/ca2.pdf width="100%">
 </p>
 
+<div align="center">
+  <img src="img/ca2.pdf" width="90%">
+
+
 
 We propose a simple class-agnostic feature adaptation method to solve the problem that the previous anomaly detection feature adaptation methods are limited by the category of normal data. Our method can adapt the pre-trained features to bridge the domain gap.
 
